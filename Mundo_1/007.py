@@ -1,0 +1,6 @@
+g1 = input("Qual seu nome?")
+p1 = float(input("nota de matematica"))
+p2 = float(input("nota de filosofia"))
+rt = (float(p1+p2))
+rg = (float(rt/2))
+print(f'{g1} sua media nas materias foi{rg}')

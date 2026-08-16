@@ -1,0 +1,5 @@
+nome = str(input('Digite seu nome:')).strip()
+nome1 = nome.lower()
+print(f'Seu nome tem {nome1.count('a')} letra(s) a')
+print(f'O primeiro a aparece em {nome1.find('a')}')
+print(f'O ultimo a aparece em {nome1.rfind('a')}')
