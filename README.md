@@ -46,7 +46,7 @@ Foco em **Programação Orientada a Objetos**.
 ## 💻 Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
-* **IDE/Editor:** (Coloque aqui o que você usou, ex: VS Code, PyCharm, etc.)
+* **IDE/Editor:** Vs Code
 
 ---
 
